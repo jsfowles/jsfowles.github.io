@@ -11,3 +11,11 @@
 .me {
   width: 250px;
 }
+
+button {
+  transition: all .4s ease;
+}
+
+button:hover {
+  background-color: : #33C3F0;
+}
