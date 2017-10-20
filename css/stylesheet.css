@@ -19,3 +19,9 @@ button {
 button:hover {
   background-color: : #33C3F0;
 }
+
+@media screen and (max-width: 900px) {
+  .mobile {
+    margin-top: 10% !important;
+  }
+}
